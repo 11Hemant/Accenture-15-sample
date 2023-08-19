@@ -8,4 +8,7 @@ echo "We are learning git"
 echo "We are done with git"
 echo "This example is of branching strategy"
 echo "good morning"
-
+mo
+fdg
+g
+fdg
